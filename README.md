@@ -35,10 +35,10 @@ A brief, catchy description of what your project does, what problem it solves, a
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/your_insta_id" target="_blank">
+  <a href="https://instagram.com/_.dharmateja._09" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/dharma" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
